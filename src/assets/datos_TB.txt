@@ -1,0 +1,78 @@
+[
+      {
+        "tipo": 'perro',
+        "producto": 'Piensos',
+        "nombre":'pienso seco',
+        "descripcion": 'aaaaa bbb ccccccccccccccc'
+      },
+      {
+        "tipo": 'perro',
+        "producto": 'Comida',
+        "nombre": 'comida húmeda',
+        "descripcion": 'dsjfkjda kdjfas jdasljfl'
+      },
+      {
+        "tipo": 'perro',
+        "producto": 'Aperitivos',
+        "nombre":'snack',
+        "descripcion": 'ksdjakfjk kajdsk sdkjaljlaskd'
+      },
+	{
+          "tipo": 'gato',
+          "producto": 'Comida',
+          "nombre":'comida húmeda',
+          "descripcion": 'dask djsa djflsakf djsa'
+        },
+
+
+      {
+        "tipo": 'perro',
+        "producto": 'Dispensadores',
+        "nombre":'bolsas y dispensadores',
+        "descripcion": 'jfdksajf dfksa dkja'
+      },
+      {
+        "tipo": 'perro',
+        "producto": 'Higiene',
+        "nombre":'Ciudado del pelo',
+        "descripcion": 'jj hjh jhjjk'
+      },
+      {
+        "tipo": 'perro',
+        "producto": 'Higiene',
+        "nombre":'Ciudado del pelo',
+        "descripcion": 'jj hjh jhjjk'
+      }
+      
+        {
+          "tipo": 'gato',
+          "producto": 'Arenas',
+          "nombre": 'arena',
+          "descripcion": 'dsfa djfsa djfsajfdjf'
+        },
+        
+        {
+          "tipo": 'gato',
+          "producto": 'Aperitivos',
+          "nombre": 'snack',
+          "descripcion": 'kjd djsalkjf dfkasfjalskfj'
+        },
+        {
+          "tipo": 'gato',
+          "producto": 'Dispensadores',
+          "nombre":'bolsas y dispensadores',
+          "descripcion": 'sjfksd jdflsaf sdkjfsalfjk'
+        },
+        {
+          "tipo": 'gato',
+          "producto": 'Juguetes',
+          "nombre": 'peluches',
+          "descripcion": 'kjd djsalkjf dfkasfjalskfj'
+        },
+        {
+          "tipo": 'gato',
+          "producto": 'Higiene',
+          "nombre":'cortauñas',
+          "descripcion": 'sjfksd jdflsaf sdkjfsalfjk'
+        },
+]

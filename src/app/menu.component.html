@@ -1,0 +1,16 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="navbar-header">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </div>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <a class="nav-link" class="nav-item" routerLink='{{ruta.path}}' class="navbar-brand btn btn-dark" role="button" *ngFor="let ruta of rutas">
+          <!-- He quitado del router link el router.path-->
+          {{ruta.name}}
+        </a>
+      </ul>
+    </div>
+</nav>
